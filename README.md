@@ -91,3 +91,8 @@ here is my evaluation result
 
 as we can see the result of my VAE-GAN is not as good as my Conv-VAE. It is hard for me to conclude if the VAE is a better approach since my GAN-VAE trained for just 1/3 of the time my VAE trained for.
 
+# running instruction
+
+my WorldModels/car_racing.ipynb is the visualization of my task2 VAE trainning result
+my WorldModels/car_racing.ipynb is the visualization of my task3 GAN-VAE trainning result
+
