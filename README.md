@@ -97,3 +97,6 @@ my WorldModels/car_racing.ipynb is the visualization of my task2 VAE trainning r
 
 my WorldModels/car_racing.ipynb is the visualization of my task3 GAN-VAE trainning result
 
+the python notebook file for visualization were developed and runned in the docker container with the command 
+	jupyter notebook --no-browser --port=8888 --ip=0.0.0.0 --allow-root
+
