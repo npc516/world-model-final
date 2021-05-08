@@ -94,5 +94,6 @@ as we can see the result of my VAE-GAN is not as good as my Conv-VAE. It is hard
 # running instruction
 
 my WorldModels/car_racing.ipynb is the visualization of my task2 VAE trainning result
+
 my WorldModels/car_racing.ipynb is the visualization of my task3 GAN-VAE trainning result
 
